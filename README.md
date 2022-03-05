@@ -1,11 +1,9 @@
 # Hi there 👋, my name is Sarim
 ### Software Developer
-![Software Developer](https://pbs.twimg.com/profile_banners/1380409363685326849/1617964763/1080x360)
+![Software Developer](https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 👋 Hi, I’m Sarim, I code to build amazing products that add value to human beings. I am really interested in using technology for humans (not the other way around). I'm open to collaborating on diverse open-source projects from agri-tech to blockchain and AI. Please reach out on twitter https://twitter.com/IamSarimK.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@IamSarimK)
 
 
 
